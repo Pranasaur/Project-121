@@ -1,0 +1,6 @@
+.test_image_and_result {
+    display: flex; /* Make the container a flexbox */
+    flex-direction: column; /* Stack elements vertically */
+    margin-bottom: 20px;
+  }
+  
